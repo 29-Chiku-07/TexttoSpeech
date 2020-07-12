@@ -1,2 +1,2 @@
 # TexttoSpeech
-An android app to convert keyboard written text into speech .
+An android application to convert keyboard written text into speech .
